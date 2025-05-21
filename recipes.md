@@ -94,7 +94,7 @@ Instructions:
 
 Ingredients:
 - 3 1/4 cups all-purpose flour
-- 1.5 tsp baking soda
+- 2 tsp baking soda
 - 2 tsp salt
 - 1 cup unsalted butter, softened
 - 3/4 cup white sugar
