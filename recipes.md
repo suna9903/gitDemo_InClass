@@ -50,24 +50,31 @@ Instructions:
 ### Spaghetti and Meatballs
 
 Ingredients:
-- 1 pound spaghetti
-- 1 pound ground beef
-- 1/2 cup bread crumbs
-- 1/4 cup milk
-- 1/4 cup grated Parmesan cheese
-- 1 egg
-- 2 cloves garlic, minced
-- Salt and pepper to taste
-- 1 jar (24 oz) spaghetti sauce
+
+- 2 lb. spaghetti
+- 2 lb. ground beef
+- 1/3 cup bread crumbs
+- 1/4 cup finely chopped parsley
+- 1/4 cup freshly grated Parmesan, plus more for serving
+- 3 large egg
+- 2 garlic cloves, minced
+- Kosher salt
+- 1/2 tsp. red pepper flakes
+- 2 Tbsp. extra-virgin olive oil
+- 1/2 cup onion, finely chopped
+- 1 (28-oz.) can crushed tomatoes
+- 1 bay leaf
+- Freshly ground black pepper
+- basil
+
 
 Instructions:
-1. Cook spaghetti according to package instructions.
-2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
-3. Form mixture into meatballs.
-4. In a large skillet, brown meatballs over medium-high heat.
-5. Add spaghetti sauce to the skillet and bring to a simmer.
-6. Reduce heat to low and let simmer for 10-15 minutes.
-7. Serve meatballs and sauce over spaghetti.
+1. In a large pot of salted boiling water, cook pasta until al dente. Drain.
+2. In a large bowl, combine beef with bread crumbs, parsley, Parmesan, egg, garlic, 1 teaspoon salt, and red pepper flakes. Mix until just combined then form into 16 balls.
+3. In a large pot over medium heat, heat oil. Add meatballs and cook, turning occasionally, until browned on all sides, about 10 minutes. Transfer meatballs to a plate.
+4. Add onion to pot and cook until soft, 5 minutes. Add crushed tomatoes and bay leaf. Season with salt and pepper and bring to a simmer. Return meatballs to pot and cover. Simmer until sauce has thickened, 8 to 10 minutes.
+5. Serve pasta with a healthy scoop of meatballs and sauce. Top with basil and Parmesan before serving.
+
 
 ### Grilled Chicken Sandwich
 
@@ -93,6 +100,7 @@ Instructions:
 ### Chocolate Chip Cookies
 
 Ingredients:
+
 - 3 1/4 cups all-purpose flour
 - 2 tsp baking soda
 - 2 tsp salt
@@ -100,6 +108,8 @@ Ingredients:
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
 - 4 eggs
+
+
 - 2 1/4 cups all-purpose flour
 - 1 tsp baking soda
 - 1 tsp salt
