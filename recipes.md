@@ -135,6 +135,8 @@ ForPastry dough
 - ⅛ teaspoon salt
 - vanilla extract, a dash, optional
 
+Instructions:
+
 1. For the pastry, in a large bowl, sift flour, sugar, and salt. Then add softened butter. Bring the mixture together with your hands, careful not to knead the pastry dough too much or you will make the pastry tough.
 2. Whisk the egg yolks and add the 2 tablespoons of beaten yolk to the flour mixture. Bring together until smooth. If the dough is too sticky, coating your hands with flour will help. Cover with plastic wrap and then refrigerate for 30 minutes, or until the dough is firm.
 3. To make the custard filling, melt sugar and salt with hot water. Mix until dissolved then let cool.
